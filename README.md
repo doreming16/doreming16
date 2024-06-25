@@ -120,6 +120,6 @@ passionate about all kinds of creative expressions
 <br>
 <br>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=150&section=footer&text=Enjoy%20your%20time%20Here%20!&fontSize=30&animation=twinkling)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=150&section=footer&text=Enjoy%20your%20time%20Here%20!&fontSize=30&fontAlignY=60&animation=twinkling)
 
 </div>
