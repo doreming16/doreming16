@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=27&height=200&section=header&text=Hi!%20It's%20me,%20Jihyeon&fontSize=40&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=27&height=200&section=header&text=Hi!%20It's%20me,%20Jihyeon&fontSize=40&fontAlignY=40&stroke=37474F)
 
 <br>
 <br>
@@ -120,6 +120,6 @@ passionate about all kinds of creative expressions
 <br>
 <br>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=150&section=footer&text=Enjoy%20your%20time%20Here&fontSize=30&animation=twinkling)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=150&section=footer&text=Enjoy%20your%20time%20Here%20!&fontSize=30&animation=twinkling)
 
 </div>
