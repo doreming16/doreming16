@@ -23,6 +23,15 @@ SSAFY 1학기 1st Semester
 <br>
 Coding - Python Track
 
+:seedling: 2024.07 - 2024.11 :seedling:
+<br>
+SSAFY 2학기 2st Semester
+<br>
+(삼성 청년 소프트웨어 아카데미, Samsung Software Academy For Youth)
+<br>
+<br>
+Projects
+
 
 <br>
 <br>
@@ -102,7 +111,7 @@ passionate about all kinds of creative expressions
 | 프로젝트 이름 Project Title | 역할 Role | 프로젝트 기간 Project Duration | 서비스 유형 Service Type | 프로젝트 설명 Description | 사용 툴 Tools | 관련 링크 Link | 기타 etc |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 사계2050 - 대전 | Composer, Arranger | 2023-07 ~ 2023-09 | - | 현대 변화된 기후 데이터를 적용, AI 작곡 기술 활용하여 비발디의 ‘사계’를 편곡 | 악보 작업 Score: Sibelius AI 음악 작업: MusicGen |  | cowork with KAIST 문화기술대학원 |
-| MovieRing | Front-End, Back-End, Design | 2024-05-13 ~2024-05-24 | 웹 | 기념일 맞춤 영화 추천 서비스 | Vue.js, Django, Figma |  | SSAFY 1학기 최종 프로젝트 |
+| MovieRing | Front-End, Back-End, Design | 2024-05-16 ~2024-05-24 | 웹 | 기념일 맞춤 영화 추천 서비스 | Vue.js, Django, Figma |  | SSAFY 1학기 최종 프로젝트 |
 | DoTo | Front-End, Design | 2024-04 ~ 2024-08 | 웹 | ToDo 애플리케이션에 소셜, 베팅 시스템을 접목한 일정 관리 서비스 | React, Figma |  | Front-End 스터디 내 토이 프로젝트 |
 | 마음끗 | Design | 2024-05 ~ 2024-09 | 웹 | 강원도 특화 여행 루트 추천 서비스 - 그룹별 맞춤/랜덤 여행 추천 | Figma |  | 관광 데이터 활용 공모전 출품 서비스 |
 | 자냥 | Front-End, Design | 2024-07-08 ~ 2024-08-16 | 앱 | 알람 어플에 그룹 기상 미션(화상) 서비스를 결합한 알람 서비스 | Flutter, React, Figma |  | SSAFY 공통 프로젝트 |
